@@ -12,4 +12,5 @@ program will RECEIVE data from text file then it will automatically sort the dat
 Once sorting process is then through the program then it will create CSV file(as requested) name as 'database.csv' with new sorted information without changing original document(text file).
 UML sequence diagram
 [Untitled.pdf](https://github.com/junseo85/schedule/files/14391809/Untitled.pdf)
+(![UML_sequence_diagram](https://github.com/junseo85/schedule/assets/112793862/ae418acb-4310-4904-9779-e0d4d99a7efb)
 
